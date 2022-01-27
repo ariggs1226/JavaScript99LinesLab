@@ -3,6 +3,7 @@ let friends = ['Russ', 'Mindy', 'David', 'Nikki', 'Hunter'];
 // loopOuter:
 for (let i = 0; i < friends.length; i++) {
     const name = friends[i];
+    console.log(name + ':')
     // let line = 99;
     for (let line = 99; line > 0; line--) {
         if (line > 2) {
