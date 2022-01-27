@@ -1,16 +1,19 @@
 body {
     background: black;
+    text-align: center;
 }
 
 h1 {
     color: blue;
     font-weight: lighter;
+    margin-bottom: 2em;
 }
 
 .friend {
     background-color: blue;
     color: black;
     font-weight: bolder;
+    
 }
 
 div.friend > h3 {
